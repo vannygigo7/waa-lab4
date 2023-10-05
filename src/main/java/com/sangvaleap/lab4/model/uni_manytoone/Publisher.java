@@ -1,4 +1,4 @@
-package com.sangvaleap.lab4.uni_manytoone;
+package com.sangvaleap.lab4.model.uni_manytoone;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

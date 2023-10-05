@@ -1,4 +1,4 @@
-package com.sangvaleap.lab4.uni_manytoone;
+package com.sangvaleap.lab4.model.uni_manytoone;
 
 import jakarta.persistence.*;
 
@@ -6,9 +6,9 @@ import jakarta.persistence.*;
 public class Book {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private  int id;
+    private int id;
 
-    private  String title;
+    private String title;
     private String isbn;
 
     private double price;

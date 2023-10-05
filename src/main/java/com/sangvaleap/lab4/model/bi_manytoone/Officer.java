@@ -1,4 +1,4 @@
-package com.sangvaleap.lab4.bi_manytoone;
+package com.sangvaleap.lab4.model.bi_manytoone;
 
 import jakarta.persistence.*;
 
